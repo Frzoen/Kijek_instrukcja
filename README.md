@@ -189,15 +189,12 @@ K[Kalibracja]
 
 A --> B
 B --> C
-C -
-- TAK--> D
-C -
-- NIE -->E
+C -- TAK--> D
+C -- NIE -->E
 D --> F 
 F --> C
 E --> G
-G -
-- Czerwony przycisk -->J
+G -- Czerwony przycisk -->J
 G --Zielony przycisk --> H
 H --> K
 K --Zielony przycisk--> I
